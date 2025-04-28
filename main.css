@@ -1,8 +1,14 @@
 html{
     font-size: 22px
+    
+}
+html{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 body{
-    background-color: #333;
-    color: whitesmoke;
+    background-image: url(background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #000000;
 }
